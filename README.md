@@ -1,2 +1,2 @@
-# Software-Defect
-utsmarting the Imbalance Game: Defect Prediction When Bugs are Rare (A chess piece dodging multiple bugs) Finding Needles in Haystacks)
+Machine learning model for handling a imbalance case in software defect prediction.
+
